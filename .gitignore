@@ -1,0 +1,12 @@
+.venv/
+*.duckdb
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.env.*
+*.pem
+*.key
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
